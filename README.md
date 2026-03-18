@@ -16,10 +16,8 @@ Me caracterizo por un enfoque analítico y disciplinado, priorizando la comprens
 
 🛠️ En desarrollo
 
-Fundamentos de programación
-
 Resolución de problemas algorítmicos
 
 Uso de control de versiones (Git & GitHub)
 
-Buenas prácticas en código
+Buenas prácticas en código (mas o menos)
