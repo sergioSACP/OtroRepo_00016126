@@ -1,4 +1,9 @@
-
+<table>
+  <tr>
+    <td>
+      <img src="yopelon.jpg" width="180" style="border-radius:50%">
+    </td>
+    <td>
 Estudiante de Ingeniería Informática (1er año)
 🧠 Interesado en entender la lógica detrás de cada sistema
 ⚙️ En proceso constante de formación técnica y práctica
